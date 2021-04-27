@@ -1,0 +1,4 @@
+pylint==2.4.3
+flake8==3.7.9
+autopep8==1.4.4
+ipdb==0.12.2
